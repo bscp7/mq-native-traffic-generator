@@ -1,7 +1,7 @@
 IBM MQ - Native Traffic Generator
 =================================
 
-This program requires setting up 4 variables in config.sh
+This program requires setting up 4 variables in `config.sh`
 
 |Variable|Value|
 |---|---|
